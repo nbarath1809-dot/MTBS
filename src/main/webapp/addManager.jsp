@@ -88,7 +88,7 @@
                     </div>
                     <div class="form-group">
                         <label class="form-label">Phone Number</label>
-                        <input type="text" name="phone" placeholder="+1 (555) 000-0000" required>
+                        <input type="text" name="phone" placeholder="+91 00000 00000" required>
                     </div>
                 </div>
 
